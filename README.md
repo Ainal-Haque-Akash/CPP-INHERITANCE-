@@ -1,0 +1,2 @@
+# CPP-INHERITANCE-
+CPP INHERITANCE Lab Manual from VU
